@@ -1,0 +1,8 @@
+prefix=/home/dhruv/Coding/ROS/Abhiyaan/maneuver/install
+
+Name: maneuver
+Description: Description of maneuver
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

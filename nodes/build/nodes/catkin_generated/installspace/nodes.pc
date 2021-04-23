@@ -1,0 +1,8 @@
+prefix=/home/dhruv/Coding/ROS/Abhiyaan/nodes/install
+
+Name: nodes
+Description: Description of nodes
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
