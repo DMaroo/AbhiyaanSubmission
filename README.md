@@ -14,7 +14,7 @@ Participated in the Online Mouse Maze Challenge in Shaastra alone. I was third a
 
 Current PORs:
 -------------
-Currently, I am the class representative of the computer science batch of 2020. I am also an associate manager at E-Cell.
+Currently, I am the class representative of the computer science batch of 2020. I am also an associate manager at E-Cell. I am the team representative of Team Charlie for TechSoc IHC.
 
 
 Why I want to work in the team:
@@ -29,7 +29,7 @@ In Institute
 CS1111\
 CS1200
 
-Doing CS1111
+Doing CS1111\
 Passed CS1200
 
 Online
@@ -41,7 +41,7 @@ Harvard's CS50: Intro to Programming
 Clarifications
 ============================
 
-The following list shows where the olution of each of the problem is present
+The following list shows where the solution of each of the problems is present
 
   - *Section A, Problem 1, 2, 3:* `nodes` directory
   - *Section A, Problem 4:* `maneuver` directory
