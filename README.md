@@ -7,6 +7,9 @@ Dhruv Maroo
 Roll Number:
 CS20B025
 
+WhatsApp number:
+8141231731
+
 Previous Experience:
 -------------------
 Very well versed in Linux systems, and other security topics, from binary exploitation to reverse engineering. Know how to read assembly code. Know the basics of networking. Very comfortable with C/C++, including OOP and procedural programming. Have worked quite a bit with the socket library in Python. Know Python well, but not as good as C/C++. Also participated in the Online Mouse Maze Challenge in Shaastra alone. I was third according to the cumulative score among, 20 total participating teams.
